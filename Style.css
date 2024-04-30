@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header1{
+    display: flex;
+    background-color: black;
+}
+.header2{
+    display: flex;
+}
+.logo img{
+    height: 60px;}
+
+.contenedor1{
+    position: relative;}
+.contenedor1 p{
+    position: absolute;
+    color: white;
+    top: 77%;
+    right: 55%;
+    font-size: 40px;
+}
+.contenedor1 h5{
+    position:absolute;
+    color: white;
+    top:75%;
+    right: 90%;
+    
+}

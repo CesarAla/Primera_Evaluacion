@@ -6,8 +6,33 @@
 .header1{
     display: flex;
     background-color: black;
+    display: flex;
+    color: white;
+
+}
+.primero{
+    display: flex;
+    background-color: black;
+}
+.suscribete a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    
+}
+.disney a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    margin-left: 1000px;
 }
 .header2{
+    display: flex;
+}
+.tarjetas{
+    display: flex;
+}
+.cards{
     display: flex;
 }
 .logo img{
@@ -28,4 +53,7 @@
     top:75%;
     right: 90%;
     
+}
+.final{
+    display: flex;
 }
